@@ -1,0 +1,7 @@
+metric,n_pairs,single_mean,auto_mean,mean_paired_improvement,bootstrap_ci_low,bootstrap_ci_high,wilcoxon_statistic,wilcoxon_p_value
+function_coverage,27,91.5285,91.4611,-0.0674,-2.2222,2.02,1.0,0.654721
+valid_ratio,27,97.09,98.0248,0.9348,-3.7063,6.4027,4.0,0.715001
+test_cases,27,6.8889,6.5926,-0.2963,-0.5926,-0.0741,0.0,0.03936
+category_diversity,27,1.7407,1.7407,0.0,-0.2222,0.2222,27.5,1.0
+negative_case_rate,27,20.33,18.8507,-1.4793,-7.323,5.0364,24.0,0.423367
+protected_function_coverage,27,18.5185,18.5185,0.0,0.0,0.0,0.0,1.0

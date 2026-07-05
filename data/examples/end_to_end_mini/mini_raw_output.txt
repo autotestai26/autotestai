@@ -1,0 +1,3 @@
+TC01 | increment | Functional | Start from value = 0, call increment once, expect value = 1.
+TC02 | reset | Functional | Start from value = 3, call reset, expect value = 0.
+TC03 | increment twice | Edge | Start from value = 0, call increment twice, expect value = 2.

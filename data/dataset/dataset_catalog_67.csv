@@ -1,0 +1,68 @@
+Split,Contract_ID,Public_Label,Source_Family,Contract_Type,SLOC_Bin,Function_Count_Bin,Public_Note
+Main27,M27_01,M27_01,SourceGroup_1,Application/Workflow,XS (1-20),1-3,Anonymized public catalog entry
+Main27,M27_02,M27_02,SourceGroup_1,Application/Workflow,S (21-50),4-7,Anonymized public catalog entry
+Main27,M27_03,M27_03,SourceGroup_1,Application/Workflow,M (51-100),8-12,Anonymized public catalog entry
+Main27,M27_04,M27_04,SourceGroup_1,Application/Workflow,L (101+),13+,Anonymized public catalog entry
+Main27,M27_05,M27_05,SourceGroup_1,Application/Workflow,XS (1-20),1-3,Anonymized public catalog entry
+Main27,M27_06,M27_06,SourceGroup_1,Application/Workflow,S (21-50),4-7,Anonymized public catalog entry
+Main27,M27_07,M27_07,SourceGroup_1,Application/Workflow,M (51-100),8-12,Anonymized public catalog entry
+Main27,M27_08,M27_08,SourceGroup_1,Application/Workflow,L (101+),13+,Anonymized public catalog entry
+Main27,M27_09,OpenZeppelin-IAccessControl,SourceGroup_1,Interface,XS (1-20),1-3,Anonymized public catalog entry
+Main27,M27_10,OpenZeppelin-IAuthority,SourceGroup_1,Interface,S (21-50),4-7,Anonymized public catalog entry
+Main27,M27_11,OpenZeppelin-IBeacon,SourceGroup_1,Interface,M (51-100),8-12,Anonymized public catalog entry
+Main27,M27_12,M27_12,SourceGroup_1,Interface,L (101+),13+,Anonymized public catalog entry
+Main27,M27_13,OpenZeppelin-IERC1363Spender,SourceGroup_1,Interface,XS (1-20),1-3,Anonymized public catalog entry
+Main27,M27_14,OpenZeppelin-IERC721Receiver,SourceGroup_1,Interface,S (21-50),4-7,Anonymized public catalog entry
+Main27,M27_15,M27_15,SourceGroup_1,Interface,M (51-100),8-12,Anonymized public catalog entry
+Main27,M27_16,M27_16,SourceGroup_2,Utility/Library,L (101+),13+,Anonymized public catalog entry
+Main27,M27_17,M27_17,SourceGroup_2,Utility/Library,XS (1-20),1-3,Anonymized public catalog entry
+Main27,M27_18,M27_18,SourceGroup_2,Utility/Library,S (21-50),4-7,Anonymized public catalog entry
+Main27,M27_19,M27_19,SourceGroup_2,Utility/Library,M (51-100),8-12,Anonymized public catalog entry
+Main27,M27_20,M27_20,SourceGroup_2,Utility/Library,L (101+),13+,Anonymized public catalog entry
+Main27,M27_21,M27_21,SourceGroup_2,Governance/Access Control,XS (1-20),1-3,Anonymized public catalog entry
+Main27,M27_22,M27_22,SourceGroup_2,Governance/Access Control,S (21-50),4-7,Anonymized public catalog entry
+Main27,M27_23,M27_23,SourceGroup_2,Governance/Access Control,M (51-100),8-12,Anonymized public catalog entry
+Main27,M27_24,M27_24,SourceGroup_2,Governance/Access Control,L (101+),13+,Anonymized public catalog entry
+Main27,M27_25,M27_25,SourceGroup_2,Other Contract,XS (1-20),1-3,Anonymized public catalog entry
+Main27,M27_26,M27_26,SourceGroup_3,Token/ERC20,S (21-50),4-7,Anonymized public catalog entry
+Main27,M27_27,M27_27,SourceGroup_4,Proxy/Upgradeability,M (51-100),8-12,Anonymized public catalog entry
+Holdout40,H40_01,H40_01,SourceGroup_5,NFT/ERC721/ERC1155,S (21-50),1-5,Anonymized public catalog entry
+Holdout40,H40_02,H40_02,SourceGroup_5,NFT/ERC721/ERC1155,M (51-100),6-10,Anonymized public catalog entry
+Holdout40,H40_03,H40_03,SourceGroup_5,NFT/ERC721/ERC1155,L (101-250),11-20,Anonymized public catalog entry
+Holdout40,H40_04,H40_04,SourceGroup_5,NFT/ERC721/ERC1155,XL (251+),21+,Anonymized public catalog entry
+Holdout40,H40_05,H40_05,SourceGroup_5,NFT/ERC721/ERC1155,S (21-50),1-5,Anonymized public catalog entry
+Holdout40,H40_06,H40_06,SourceGroup_5,NFT/ERC721/ERC1155,M (51-100),6-10,Anonymized public catalog entry
+Holdout40,H40_07,H40_07,SourceGroup_5,NFT/ERC721/ERC1155,L (101-250),11-20,Anonymized public catalog entry
+Holdout40,H40_08,H40_08,SourceGroup_5,NFT/ERC721/ERC1155,XL (251+),21+,Anonymized public catalog entry
+Holdout40,H40_09,H40_09,SourceGroup_5,NFT/ERC721/ERC1155,S (21-50),1-5,Anonymized public catalog entry
+Holdout40,H40_10,H40_10,SourceGroup_6,NFT/ERC721/ERC1155,M (51-100),6-10,Anonymized public catalog entry
+Holdout40,H40_11,H40_11,SourceGroup_6,NFT/ERC721/ERC1155,L (101-250),11-20,Anonymized public catalog entry
+Holdout40,H40_12,H40_12,SourceGroup_6,NFT/ERC721/ERC1155,XL (251+),21+,Anonymized public catalog entry
+Holdout40,H40_13,H40_13,SourceGroup_6,NFT/ERC721/ERC1155,S (21-50),1-5,Anonymized public catalog entry
+Holdout40,H40_14,H40_14,SourceGroup_6,NFT/ERC721/ERC1155,M (51-100),6-10,Anonymized public catalog entry
+Holdout40,H40_15,H40_15,SourceGroup_6,NFT/ERC721/ERC1155,L (101-250),11-20,Anonymized public catalog entry
+Holdout40,H40_16,H40_16,SourceGroup_6,DeFi/AMM/Vault,XL (251+),21+,Anonymized public catalog entry
+Holdout40,H40_17,H40_17,SourceGroup_7,DeFi/AMM/Vault,S (21-50),1-5,Anonymized public catalog entry
+Holdout40,H40_18,H40_18,SourceGroup_7,DeFi/AMM/Vault,M (51-100),6-10,Anonymized public catalog entry
+Holdout40,H40_19,H40_19,SourceGroup_7,DeFi/AMM/Vault,L (101-250),11-20,Anonymized public catalog entry
+Holdout40,H40_20,H40_20,SourceGroup_7,DeFi/AMM/Vault,XL (251+),21+,Anonymized public catalog entry
+Holdout40,H40_21,H40_21,SourceGroup_7,DeFi/AMM/Vault,S (21-50),1-5,Anonymized public catalog entry
+Holdout40,H40_22,H40_22,SourceGroup_7,Token/ERC20,M (51-100),6-10,Anonymized public catalog entry
+Holdout40,H40_23,H40_23,SourceGroup_7,Token/ERC20,L (101-250),11-20,Anonymized public catalog entry
+Holdout40,H40_24,H40_24,SourceGroup_8,Token/ERC20,XL (251+),21+,Anonymized public catalog entry
+Holdout40,H40_25,H40_25,SourceGroup_8,Token/ERC20,S (21-50),1-5,Anonymized public catalog entry
+Holdout40,H40_26,H40_26,SourceGroup_8,Token/ERC20,M (51-100),6-10,Anonymized public catalog entry
+Holdout40,H40_27,H40_27,SourceGroup_8,Cross-chain/Gasless/Relay,L (101-250),11-20,Anonymized public catalog entry
+Holdout40,H40_28,H40_28,SourceGroup_8,Cross-chain/Gasless/Relay,XL (251+),21+,Anonymized public catalog entry
+Holdout40,H40_29,H40_29,SourceGroup_8,Cross-chain/Gasless/Relay,S (21-50),1-5,Anonymized public catalog entry
+Holdout40,H40_30,H40_30,SourceGroup_9,Cross-chain/Gasless/Relay,M (51-100),6-10,Anonymized public catalog entry
+Holdout40,H40_31,H40_31,SourceGroup_9,Cross-chain/Gasless/Relay,L (101-250),11-20,Anonymized public catalog entry
+Holdout40,H40_32,H40_32,SourceGroup_9,Interface,XL (251+),21+,Anonymized public catalog entry
+Holdout40,H40_33,H40_33,SourceGroup_9,Interface,S (21-50),1-5,Anonymized public catalog entry
+Holdout40,H40_34,H40_34,SourceGroup_10,Application/Workflow,M (51-100),6-10,Anonymized public catalog entry
+Holdout40,H40_35,H40_35,SourceGroup_10,Application/Workflow,L (101-250),11-20,Anonymized public catalog entry
+Holdout40,H40_36,H40_36,SourceGroup_10,Proxy/Upgradeability,XL (251+),21+,Anonymized public catalog entry
+Holdout40,H40_37,H40_37,SourceGroup_10,Proxy/Upgradeability,S (21-50),1-5,Anonymized public catalog entry
+Holdout40,H40_38,H40_38,SourceGroup_11,Governance/Access Control,M (51-100),6-10,Anonymized public catalog entry
+Holdout40,H40_39,H40_39,SourceGroup_11,Governance/Access Control,L (101-250),11-20,Anonymized public catalog entry
+Holdout40,H40_40,H40_40,SourceGroup_11,Utility/Library,XL (251+),21+,Anonymized public catalog entry

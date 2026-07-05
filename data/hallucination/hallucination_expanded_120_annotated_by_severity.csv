@@ -1,0 +1,4 @@
+Severity,Count,Percentage of hallucination cases (%),Percentage of full sample (%)
+Misleading but recoverable,36,76.6,30.0
+Harmful/security-relevant,9,19.15,7.5
+Minor,2,4.26,1.67

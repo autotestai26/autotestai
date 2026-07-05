@@ -1,0 +1,17 @@
+failure_taxonomy,count
+wrong role assumption,0
+nonexistent function/state,0
+missing pre-state,0
+wrong expected outcome,0
+sequence mismatch,0
+cheatcode misuse in setup,6
+behavioral assertion mismatch,1
+value distribution mismatch,1
+access control oracle mismatch,1
+runtime revert on edge case,1
+duplicate payee validation mismatch,1
+missing expected event/log,1
+runtime call failure,1
+__stage_breakdown__,
+Execution,8
+Oracle,5

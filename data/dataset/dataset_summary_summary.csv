@@ -1,0 +1,4 @@
+Split,Contracts,Avg SLOC,Median SLOC,Min SLOC,Max SLOC,Avg Named Functions,Median Named Functions,Avg Function-like Entries,Median Function-like Entries
+main27,27,37.81,23.0,4,131,5.19,4.0,5.78,4.0
+holdout40,40,154.8,104.0,22,649,14.18,11.5,14.85,12.5
+combined67,67,107.66,68.0,4,649,10.55,7.0,11.19,9.0

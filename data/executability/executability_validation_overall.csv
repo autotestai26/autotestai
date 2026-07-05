@@ -1,0 +1,12 @@
+Metric,Value
+Total sampled rows,141.0
+Converted to executable tests,141.0
+Convertibility rate (%),100.0
+Compilation success,141.0
+Compilation success rate among all sampled (%),100.0
+Compilation success rate among converted (%),100.0
+Execution success,133.0
+Execution success rate among all sampled (%),94.33
+Execution success rate among compiled (%),94.33
+Oracle consistency,128.0
+Oracle consistency rate among executed (%),96.24

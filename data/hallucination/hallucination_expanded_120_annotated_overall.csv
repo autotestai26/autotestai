@@ -1,0 +1,11 @@
+Metric,Value
+Sampled rows,120.0
+Hallucination-positive rows,47.0
+No obvious hallucination,73.0
+Hallucination ratio (%),39.17
+Harmful/security-relevant count,9.0
+Harmful/security-relevant ratio within sample (%),7.5
+Misleading but recoverable count,36.0
+Misleading but recoverable ratio within sample (%),30.0
+Minor count,2.0
+Minor ratio within sample (%),1.67

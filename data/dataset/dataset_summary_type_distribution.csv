@@ -1,0 +1,17 @@
+Split,Contract Type,Count,Percentage (%)
+holdout40,NFT/ERC721/ERC1155,15,37.5
+holdout40,DeFi/AMM/Vault,6,15.0
+holdout40,Token/ERC20,5,12.5
+holdout40,Cross-chain/Gasless/Relay,5,12.5
+holdout40,Interface,2,5.0
+holdout40,Application/Workflow,2,5.0
+holdout40,Proxy/Upgradeability,2,5.0
+holdout40,Governance/Access Control,2,5.0
+holdout40,Utility/Library,1,2.5
+main27,Application/Workflow,8,29.63
+main27,Interface,7,25.93
+main27,Utility/Library,5,18.52
+main27,Governance/Access Control,4,14.81
+main27,Other Contract,1,3.7
+main27,Token/ERC20,1,3.7
+main27,Proxy/Upgradeability,1,3.7

@@ -1,0 +1,4 @@
+Test Case ID,Function Under Test,Category,Pre-State Setup,Input Parameters,Expected Outcome,Public Note
+TC01,increment,Functional,value=0,[],value becomes 1,"Synthetic illustrative mini example; not part of the paper's internal evaluation corpus."
+TC02,reset,Functional,value=3,[],value becomes 0,"Synthetic illustrative mini example; not part of the paper's internal evaluation corpus."
+TC03,increment,Edge,value=0,"[call increment twice]",value becomes 2,"Synthetic illustrative mini example; not part of the paper's internal evaluation corpus."

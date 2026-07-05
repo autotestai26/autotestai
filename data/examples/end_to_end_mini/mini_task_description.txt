@@ -1,0 +1,7 @@
+Illustrative public mini example.
+
+Task:
+Generate a few structured draft test cases for the Solidity snippet in
+mini_contract.sol. Focus on normal functional behavior and one simple edge
+condition. This example is synthetic and is provided only to show the public
+artifact format at a very small scale.

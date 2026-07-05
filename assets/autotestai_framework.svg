@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">AutoTestAI Framework Banner</title>
+  <desc id="desc">A concise four-box banner showing contracts, preprocessing, draft specification generation, and released artifacts.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7f3ea"/>
+      <stop offset="100%" stop-color="#eef5f8"/>
+    </linearGradient>
+    <linearGradient id="card1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dbefe8"/>
+      <stop offset="100%" stop-color="#c8e6dc"/>
+    </linearGradient>
+    <linearGradient id="card2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff2cb"/>
+      <stop offset="100%" stop-color="#fbe1a0"/>
+    </linearGradient>
+    <linearGradient id="card3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dce8fb"/>
+      <stop offset="100%" stop-color="#c8daf6"/>
+    </linearGradient>
+    <linearGradient id="card4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6dde7"/>
+      <stop offset="100%" stop-color="#efcedb"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#6f7f8f" flood-opacity="0.18"/>
+    </filter>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#4d5b68"/>
+    </marker>
+    <style>
+      .title { font: 700 30px Arial, sans-serif; fill: #223346; }
+      .subtitle { font: 400 14px Arial, sans-serif; fill: #536273; }
+      .card-title { font: 700 20px Arial, sans-serif; fill: #223346; }
+      .card-line { font: 400 15px Arial, sans-serif; fill: #314151; }
+      .foot { font: 400 12px Arial, sans-serif; fill: #5a6774; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="320" rx="26" fill="url(#bg)"/>
+
+  <text x="60" y="56" class="title">AutoTestAI</text>
+  <text x="60" y="82" class="subtitle">Solidity contracts in, draft test specifications out, evaluation artifacts released</text>
+
+  <g filter="url(#shadow)">
+    <rect x="60" y="120" width="230" height="122" rx="22" fill="url(#card1)" stroke="#73a991" stroke-width="1.8"/>
+    <text x="86" y="160" class="card-title">1. Contract Set</text>
+    <text x="86" y="194" class="card-line">Main27 benchmark</text>
+    <text x="86" y="220" class="card-line">Holdout40 contracts</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="350" y="120" width="230" height="122" rx="22" fill="url(#card2)" stroke="#c79f37" stroke-width="1.8"/>
+    <text x="376" y="160" class="card-title">2. Preprocessing</text>
+    <text x="376" y="194" class="card-line">Functions and guards</text>
+    <text x="376" y="220" class="card-line">Scenario cues</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="640" y="120" width="230" height="122" rx="22" fill="url(#card3)" stroke="#7397cf" stroke-width="1.8"/>
+    <text x="666" y="160" class="card-title">3. Draft Specs</text>
+    <text x="666" y="194" class="card-line">Auditor-style prompting</text>
+    <text x="666" y="220" class="card-line">Structured CSV output</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="930" y="120" width="210" height="122" rx="22" fill="url(#card4)" stroke="#b77a96" stroke-width="1.8"/>
+    <text x="956" y="160" class="card-title">4. Public Artifacts</text>
+    <text x="956" y="194" class="card-line">Results and audits</text>
+    <text x="956" y="220" class="card-line">Rubrics and scripts</text>
+  </g>
+
+  <line x1="290" y1="181" x2="350" y2="181" stroke="#4d5b68" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <line x1="580" y1="181" x2="640" y2="181" stroke="#4d5b68" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <line x1="870" y1="181" x2="930" y2="181" stroke="#4d5b68" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+  <rect x="60" y="270" width="1080" height="28" rx="14" fill="#ffffff" fill-opacity="0.68" stroke="#cad4dd"/>
+  <text x="86" y="288" class="foot">Public release includes evaluation-facing artifacts only; private prompts, integration code, and secrets are withheld.</text>
+</svg>
